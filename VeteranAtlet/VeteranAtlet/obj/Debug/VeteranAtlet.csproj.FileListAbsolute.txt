@@ -1,0 +1,10 @@
+G:\PRG\VeteranAtlet\VeteranAtlet\bin\Debug\VeteranAtlet.exe.config
+G:\PRG\VeteranAtlet\VeteranAtlet\bin\Debug\VeteranAtlet.exe
+G:\PRG\VeteranAtlet\VeteranAtlet\bin\Debug\VeteranAtlet.pdb
+G:\PRG\VeteranAtlet\VeteranAtlet\obj\Debug\VeteranAtlet.csprojAssemblyReference.cache
+G:\PRG\VeteranAtlet\VeteranAtlet\obj\Debug\VeteranAtlet.Form1.resources
+G:\PRG\VeteranAtlet\VeteranAtlet\obj\Debug\VeteranAtlet.Properties.Resources.resources
+G:\PRG\VeteranAtlet\VeteranAtlet\obj\Debug\VeteranAtlet.csproj.GenerateResource.cache
+G:\PRG\VeteranAtlet\VeteranAtlet\obj\Debug\VeteranAtlet.csproj.CoreCompileInputs.cache
+G:\PRG\VeteranAtlet\VeteranAtlet\obj\Debug\VeteranAtlet.exe
+G:\PRG\VeteranAtlet\VeteranAtlet\obj\Debug\VeteranAtlet.pdb
